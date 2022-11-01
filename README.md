@@ -1,8 +1,8 @@
 ## Oláa! Sou a Tamires Saches 😁👋
 
-- 🔭 Atualmente estou estudando o mundo front-end
+- 🔭 Atualmente estou estudando o mundo da tecnologia
 - 🌱 Estudando HTML5 e CSS3
-- 😄 Pronouns: ela/dela
+- 😄 Pronome: ela/dela
 
 <div align="center">
  <a href="https://github.com/TamiresSaches">
